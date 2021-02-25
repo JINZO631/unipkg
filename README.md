@@ -10,5 +10,5 @@ $ go get github.com/JINZO631/unipkg
 ## usage
 
 ```
-unipkg [.unitypackage filename]
+$ unipkg [.unitypackage filename]
 ```
