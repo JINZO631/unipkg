@@ -4,7 +4,7 @@ check command for unitypackage contents
 ## install
 
 ```
-$ go install github.com/JINZO631/unipkg
+$ go get github.com/JINZO631/unipkg
 ```
 
 ## usage
