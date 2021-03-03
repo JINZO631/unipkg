@@ -1,5 +1,5 @@
 # unipkg
-check command for unitypackage contents
+command for check unitypackage contents
 
 ## install
 
