@@ -1,7 +1,7 @@
 # unipkg
 command for check unitypackage contents
 
-## install
+## installation
 
 ```
 $ go get github.com/JINZO631/unipkg
